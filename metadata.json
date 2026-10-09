@@ -1,0 +1,6 @@
+{
+  "name": "MK Phone Parts - Windows & Mobile Platform",
+  "description": "نظام متكامل لإدارة وبيع قطع غيار الهواتف لتطبيق ويندوز والهاتف المحمول مع بوابة دفع إلكترونية، لوحة تحكم للطلبات، ودعم فني مباشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
